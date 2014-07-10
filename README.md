@@ -7,8 +7,9 @@ If you switch between the repository's branches you can find the same files avai
 
 You can see the final project working at:
 
-English Version: https://www.youtube.com/watch?v=VdeUzKL1B2Y
-Spanish Version: https://www.youtube.com/watch?v=YNaAMhDkIhY
+English Version: https://www.youtube.com/watch?v=VdeUzKL1B2Y.
+
+Spanish Version: https://www.youtube.com/watch?v=YNaAMhDkIhY.
 
 ***************************************    BUILDING INSTRUCTIONS 	*************************************************
 Build all the files following the instructions given in the tutorials of wiki.ros (http://wiki.ros.org/ROS/Tutorials)
