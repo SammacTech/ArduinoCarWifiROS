@@ -19,7 +19,9 @@ We have created 2 packages: one called publisher_2socket that contains both publ
 If you try to repeat this structure, you will have something similar to: 
 
 workspace/
+
 		src/ 
+		
 			file.h attached 
 			Several Packages...
 
