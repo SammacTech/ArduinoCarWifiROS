@@ -1,5 +1,16 @@
 ArduinoCarWifiROS
 =================
+
+This repository contains all the information you need for creating a mobile robot based on Arduino and controlled by ROS. As extra items, it uses an Arduino UNO working as a SCADA system. 
+
+If you switch between the repository's branches you can find the same files available in other languages.
+
+You can see the final project working at:
+
+English Version: https://www.youtube.com/watch?v=VdeUzKL1B2Y
+Spanish Version: https://www.youtube.com/watch?v=YNaAMhDkIhY
+
+***************************************    BUILDING INSTRUCTIONS 	*************************************************
 Build all the files following the instructions given in the tutorials of wiki.ros (http://wiki.ros.org/ROS/Tutorials)
 
 
@@ -15,3 +26,5 @@ workspace/
 
 
 ** DONT FORGET CHANGING THE LIBRARY PATH IN ALL THE FILES
+
+
